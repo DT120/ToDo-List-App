@@ -1,0 +1,50 @@
+{
+    "2024-01-15": {
+        "schedule": [
+            {
+                "name": "code",
+                "time": "01:15"
+            },
+            {
+                "name": "sleep",
+                "time": "18:00"
+            },
+            {
+                "name": "walk dogs",
+                "time": "12:00"
+            },
+            {
+                "name": "tiktok",
+                "time": "23:00"
+            }
+        ],
+        "todo": [
+            {
+                "name": "dogs",
+                "completed": true
+            },
+            {
+                "name": "code",
+                "completed": false
+            },
+            {
+                "name": "sleep",
+                "completed": true
+            },
+            {
+                "name": "fish"
+            },
+            {
+                "name": "make money"
+            }
+        ]
+    },
+    "2024-01-14": {
+        "schedule": [],
+        "todo": [
+            {
+                "name": "sleep"
+            }
+        ]
+    }
+}
